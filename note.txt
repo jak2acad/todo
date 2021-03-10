@@ -1,0 +1,11 @@
+vue create veutify-todo
+cd veutify-todo
+vue add veutify
+npm install date-fns --save
+npm i -S vuedraggable
+
+
+https://sortablejs.github.io/Vue.Draggable/
+
+https://github.com/dannyconnell/localbase
+
