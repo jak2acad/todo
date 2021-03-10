@@ -9,3 +9,8 @@ https://sortablejs.github.io/Vue.Draggable/
 
 https://github.com/dannyconnell/localbase
 
+https://vuetifyjs.com/en/features/scrolling/#api
+
+https://sortablejs.github.io/Vue.Draggable/#/handle
+
+https://github.com/SortableJS/Vue.Draggable/blob/master/example/components/handle.vue
