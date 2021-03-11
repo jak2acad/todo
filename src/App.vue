@@ -100,4 +100,11 @@ export default {
 <style lang="sass">
 .header-container
   max-width: none !important
+.v-app-bar-title
+  .v-app-bar-title__content
+    display: inline-flex
+    flex-direction: row
+    flex-wrap: wrap
 </style>
+
+
