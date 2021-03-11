@@ -109,7 +109,7 @@ export default new Vuex.Store({
         commit("showSnackBar", "Task updated!");
       })
     },
-    updateTaskDueDate({ commit }, payload) {
+    updateTaskDueDate({ state, commit }, payload) {
       let task = state.tasks.filter((task) => task.id === payload.id);
       db.collection("tasks").doc({ id: payload.id }).update({
         dueDate: task.dueDate
